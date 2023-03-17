@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 92%;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+.try{
+    background-color:white;
+}
+
+.rare{
+    float: left;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.bag{
+    border: 2px solid lightpink;
+}
+
+.bag p{
+    padding-left: 25%;
+}
+
+.datas a{
+    color: whitesmoke;
+    font-size:33px;
+    display: inline-block;
+	width: 290px;
+	height: 215px;
+	border: 3px solid blueviolet;
+	margin: 10px;
+	padding: 10px;
+    background-image: url('test.jpg');
+}
+
+.enter p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+.enter h6{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(9, 12, 143);
+}
