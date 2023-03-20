@@ -43,13 +43,23 @@ Change the <DB_USERNAME> and <DB_PASSWORD> of the mongoose.js file in the db sub
 
 ```bash
 cd antifake
+```
+
+```bash
 set NODE_OPTIONS=--openssl-legacy-provider
+```
+
+```bash
 npm start
 ```
 
 ### To run node server
+
 ```bash
 cd database
+```
+
+```bash
 npm run dev
 ```
 
